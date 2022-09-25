@@ -1,6 +1,10 @@
 # kryptojobstogo
 
+
 This KryptoJobs2Go is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them.
+
+# The Landing Page
+![Landing Page](./Screenshots/Landing_Page.png)
 
 The first file is called `krypto_jobs.py`. It contains the code associated with the web interface of application. The code included in this file is compatible with the Streamlit library.
 
