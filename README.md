@@ -8,4 +8,9 @@ The second file  is called `crypto_wallet.py`. This file contains the Ethereum t
 
 Integrating these two files will allow us to automate the tasks associated with generating a digital wallet, accessing Ethereum account balances, and signing and sending transactions via a personal Ethereum blockchain called Ganache.
 
-
+The Balance of wallets before transactions
+![Initial Balance](./Screenshots/Account_balance_start.png)
+The Balance of wallets after transactions
+![Final Balance](./Screenshots/Account_balance_end.png)
+The recorded Transactions
+![Recorded_Transactions](./Screenshots/Transactions.png)
